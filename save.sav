@@ -1,0 +1,18 @@
+# This is the saving file for pyckage tracker
+# Each line represents one package
+
+# Format of each entry should be:
+# Name; Carrier; Tracking_number
+# Separate by semi-columns ";"
+
+# Lines starts as # \n \t or \r will be skipped
+
+
+
+
+
+return; usps; 9302020130200491340142
+60mm, 2.8 macro; usps; LK161818357CN
+AC68u; ups; 1ZW0Y5800385399222
+Lumia 950XL; usps; 9405509699937160270410
+cookbook;usps;9341989695090013225542
